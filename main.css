@@ -1,0 +1,30 @@
+
+#fs-img { 
+	height: 50px;
+	}
+.input {
+	width: 100px;
+	margin-bottom: 5px;
+
+}
+.main-box {
+	margin: 10px auto 20px auto;
+	background-color: #333333;
+
+}
+
+body {
+	background-color: #000000;
+}
+
+h1 {
+	color: #ffffff;
+}
+
+small {
+	color: #ffffff;
+}
+
+#guess-count {
+	color: #ffffff;
+}
