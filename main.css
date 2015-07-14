@@ -28,3 +28,12 @@ small {
 #guess-count {
 	color: #ffffff;
 }
+
+#how-good {
+	color: #ffffff;
+}
+
+#guessed {
+	display: block;
+	color: #ffffff;
+}
